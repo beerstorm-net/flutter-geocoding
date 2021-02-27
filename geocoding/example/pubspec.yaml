@@ -20,11 +20,11 @@ dependencies:
     # the parent directory to use the current plugin's version. 
     path: ../
 
+  url_launcher: ^6.0.1
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.3
-  url_launcher: ^5.4.11
 
 
 dev_dependencies:
